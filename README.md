@@ -6,19 +6,19 @@ _A professional script for SSH Tunnel management, which was built according to I
 
 ---
 
-_یک اسکریپت حرفه ای برای مدیریت SSH Tunnel  که با توجه به محدودیت های ایران ساخت شده است. با توجه به اینکه ایرانیان عزیز در تلاش برای اینترنت آزاد هستند من هم در تلاش برای یک سرویس پایدار هستم و حمایت میکنیم از اینترنت آزاد و مطمئن باشید که فیلترینگ شکست خورده است! این اسکریپت با امکانات فراوانی که در زیر آمده است منتشر شده  و دقت نمایید که برای استفاده از اسکریپت صرفا باید به من پیغام بدهید که دسترسی آن را برای شما باز کنم. این دسترسی صرفا با اعلام آیپی سرور شما باز می شود. لطفا در تلگرام با من در ارتباط باشید._
+_بارها و بارها دیتاسنتر ها برای _
 
 
 ### Features:
-✔️ Download Logs
+✔️ Check The Log
 
-✔️ Custom Url Downloading
+✔️ Custom Url Download
 
-✔️ Speed Download Control
+✔️ Download Speed Control
 
-✔️ Auto Deleteing Files
+✔️ Automatic Deletion Of Downloaded Files
 
-✔️ Once Download Method
+✔️ One Time Download Method
 
 ✔️ Unlimited Download Method
 <br>
