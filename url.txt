@@ -1,0 +1,1 @@
+http://download.com/file.iso::1
