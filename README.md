@@ -6,7 +6,7 @@ _A professional script for SSH Tunnel management, which was built according to I
 
 ---
 
-_بارها و بارها دیتاسنتر ها برای _
+_بارها و بارها دیتاسنتر ها برای_
 
 
 ### Features:
