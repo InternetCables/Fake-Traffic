@@ -10,68 +10,47 @@ _یک اسکریپت حرفه ای برای مدیریت SSH Tunnel  که با �
 
 
 ### Features:
-✔️ Limit Based On The Number Of Connections
+✔️ Download Logs
 
-✔️ Limit Based On Traffic Used Connection
+✔️ Custom Url Downloading
 
-✔️ RestApi
+✔️ Speed Download Control
 
-✔️ Multi Server
+✔️ Auto Deleteing Files
 
-✔️ Control Expire Time/Date
+✔️ Once Download Method
 
-✔️ Robot Telegram For Management
-
-✔️ Robot Telegram For User
-
-✔️ Zarinpal Payment Gateway
-
-✔️ Database Cluster for Multi Server
-
-✔️ Source Encoded By Ioncube
-
-✔️ Multi Languages
-
-✔️ Reseller Panel
-
-❌ Licensed For Sponsors
+✔️ Unlimited Download Method
 <br>
 <br>
 <br>
 ### Usages:
-📌 Install:
+📌 Prerequisite:
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/InternetCables/SSH-UserManagement/main/install.sh --ipv4)
+from urllib.request import urlretrieve
+import random
+import datetime
+from colorama import Fore, Back, Style
+from tqdm import tqdm
+import fade
+import platform , sys ,os
+import time
+import shutil
 ```
-<b>Note:</b> Please do not use root username during installation.
+<b>Note:</b> Please complete the prerequisites via the pip install command.
 <br>
 <br>
 <br>
-📌 Update:
+📌 Stating Software:
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/InternetCables/SSH-UserManagement/main/install.sh --ipv4)
+https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
 ```
-<b>Note:</b> Please make a backup of the database before updating.
-<br>
-<br>
-<br>
-📌 Install SSL:
-```
-bash <(curl -Ls https://raw.githubusercontent.com/InternetCables/SSH-UserManagement/main/ssl.sh --ipv4)
-```
-<b>Note:</b> Before installing SSL, please use the installation command. 
-<br>
-<br>
-<br>
-📌 Install Cisco AnyConnnect Connection:
-```
-bash <(curl -Ls https://raw.githubusercontent.com/InternetCables/SSH-UserManagement/main/ocserv-install.sh --ipv4)
-```
+<b>Note:</b> Please Install Python 3.11.3 And Vs Code.
 <br>
 <br>
 <br>
 
-**Copyright &copy; [@InternetCables](https://t.me/InternetCables) Please through this link [Sponsors](https://github.com/InternetCables/SSH-UserManagement/blob/main/.github/sponsors.yml) Support me!**
+**Copyright &copy; [@InternetCables](https://t.me/InternetCables) Please through this link [Sponsors](https://github.com/InternetCables/Fake-Traffic/blob/main/.github/sponsors.yml) Support me!**
 <br>
 **Telegram Support: [@InternetCables](https://t.me/InternetCables)**
 
