@@ -2,7 +2,7 @@
 ![](ScreenShot/1.png)
 
 
-_A professional script for SSH Tunnel management, which was built according to Iran's restrictions. Considering that dear Iranians are trying for free internet, I am also trying for a stable service and we support free internet and be sure that filtering has failed!This script has been published with the following features, and please note that to use the script, you only need to send me a message to open its access for you. This access is opened only by announcing your server IP. Please contact me on Telegram._
+_It has happened many times that datacenters charge you 1 to 1 traffic and make this script ready is a Python program that you just need to run on an external server. And download a file on the server where the cost of traffic is 1 to 1. This can be done with the download option in the program and it makes your traffic no longer 1 to 1._
 
 ---
 
